@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		Ekstraklasa ek = new Ekstraklasa();
 		
-		System.out.println("Hello World");
+		System.out.println("Hello World Again");
 		ek.cracovia();
 	}
 
